@@ -5,7 +5,7 @@
 
 In this exercise, we will focus on managing variables, arguments and scopes.
 
-*In each function created throughout these exercises the body of the function must contain a **dosctring** (a first line with a string explaining what the function does).*
+*In each function created throughout these exercises the body of the function must contain a **docstring** (a first line with a string explaining what the function does).*
 
 ##
 
